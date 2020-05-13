@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: svm-latex-cv.tex
+    template: support_material/svm-latex-cv.tex
 geometry: margin=1in
 
 title: "CURRICULUM VITAE"
