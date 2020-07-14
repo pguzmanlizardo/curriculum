@@ -78,16 +78,17 @@ MTA: Software Fundamentals \hfill 2017
 MTA: SQL Database Fundamentals \hfill 2016  
 
 # Awards
-Membership at Golden Key International Honour Society \hfill 2018  
+Charles William Snyder Memorial Scholarship \hfill 2020   
 Dean's Honour List \hfill 2018-2019  
+Membership at Golden Key International Honour Society \hfill 2018  
 Octo Finals, 43rd Annual Harvard Forensics Tournament \hfill 2017
 
 
-```{r include=FALSE}
+```{r eval=FALSE, include=FALSE}
 # Run the code below to knit the file
-# rmarkdown::render(input = "cv_general.Rmd",
-#                   output_file = "cv_general.pdf",
-#                   output_dir = "..")
+rmarkdown::render(input = "cv_general.Rmd",
+                  output_file = "cv_general.pdf",
+                  output_dir = "..")
 
 ```
 
