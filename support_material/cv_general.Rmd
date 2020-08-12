@@ -32,13 +32,9 @@ bibliography: "publications.bib"
 
 # Experience
 
-Research Assistant under professor Laura Doering at the University of Toronto \hfill 2018-present
-
-* Support in data manipulation and analysis  
-
+Research Assistant under professor Laura Doering at the University of Toronto \hfill 2018-present  
 Staff Writer at McGill Journal of Political Studies \hfill 2019-2020  
 Tutor for POLI 311: Introduction to Quantitative Political Science at McGill University \hfill 2019  
-Internship at the ICT department at *ARS Humano* Insurance Company \hfill 2016
 
 # Education
 
@@ -61,19 +57,21 @@ Internship at the ICT department at *ARS Humano* Insurance Company \hfill 2016
 
 # Languages
 English (Bilingual proficiency)  
-Spanish (Mother Tongue)  
+Spanish (Mother tongue)  
 French (Intermediate)  
 
 # Skills
-R programming language and RMarkdown  
-STAT  
-LaTex  
+R programming language  
+STATA  
+Python  
 Git  
+LaTex  
+RMarkdown  
 Research    
 Data and statistical analysis  
 
 # Certifications
-MTA: Netwokring Fundamentals \hfill 2017  
+MTA: Networking Fundamentals \hfill 2017  
 MTA: Software Fundamentals \hfill 2017  
 MTA: SQL Database Fundamentals \hfill 2016  
 
