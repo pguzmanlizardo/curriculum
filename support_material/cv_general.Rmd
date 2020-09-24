@@ -32,13 +32,21 @@ bibliography: "publications.bib"
 
 # Experience
 
-Research Assistant under professor Laura Doering at the University of Toronto \hfill 2018-present  
-Staff Writer at McGill Journal of Political Studies \hfill 2019-2020  
-Tutor for POLI 311: Introduction to Quantitative Political Science at McGill University \hfill 2019  
+Research Assistant \hfill 2018-present  
+
+* Assistant under professor Laura Doering at the Rotman School of Management, University of Toronto. Responsibilities included research, data manipulation with Stata and data analysis.
+
+Staff Writer at McGill Journal of Political Studies \hfill 2019-2020 
+
+* Staff writer on comparative politics at the McGill Journal of Political Studies (MJPS). Wrote mainly about Latin American politics.
+
+Tutor for quantitative political analysis \hfill 2019  
+
+* Tutor for POLI 311: Introduction to Quantitative Political Science at McGill University.
 
 # Education
 
-*McGill University*, B.A. Economics and Political Science \hfill September 2017-April 2021
+*McGill University*, B.A. Honours Economics and Political Science \hfill September 2017-April 2021
 
 * ECON 468: Econometrics 1 - Honours
 * ECON 469: Econometrics 2 - Honours
@@ -51,36 +59,34 @@ Tutor for POLI 311: Introduction to Quantitative Political Science at McGill Uni
 *Colegio Biling&uuml;e New Horizons*, Graduated in 2017, accredited by the New England Association of Schools and Colleges \hfill 2017
 
 * Technical vocational education in Information and Communications Technology
-* Model United Nations Club president
-* Speech and Debate Club Chief
-* Member of the community service club Grupo Estrella
+* Model United Nations Club president and Speech and Debate Club Chief
+
+# Projects
+Bank of Canada's Governor's Challenge  
+
+* Part of McGill University's delegation to the Governor's Challenge, an annual competition in which students from universities across Canada are asked to present a monetary policy recommendation to the Bank of Canada.
+
+# Awards
+Charles William Snyder Memorial Scholarship \hfill 2020   
+Dean's Honour List \hfill 2018-2020  
+Membership at Golden Key International Honour Society \hfill 2018  
+Octo Finals, 43rd Annual Harvard Forensics Tournament \hfill 2017
 
 # Languages
-English (Bilingual proficiency)  
-Spanish (Mother tongue)  
+English (Bilingual)  
+Spanish (Native)  
 French (Intermediate)  
 
 # Skills
-R programming language  
-STATA  
-Python  
-Git  
-LaTex  
-RMarkdown  
-Research    
-Data and statistical analysis  
+Statistical programming: R, Python, Stata  
+Version control and project collaboration: Git and GitHub  
+Communication of findings: LaTex, RMarkdown  
+Research, Data and statistical analysis  
 
 # Certifications
 MTA: Networking Fundamentals \hfill 2017  
 MTA: Software Fundamentals \hfill 2017  
 MTA: SQL Database Fundamentals \hfill 2016  
-
-# Awards
-Charles William Snyder Memorial Scholarship \hfill 2020   
-Dean's Honour List \hfill 2018-2019  
-Membership at Golden Key International Honour Society \hfill 2018  
-Octo Finals, 43rd Annual Harvard Forensics Tournament \hfill 2017
-
 
 ```{r eval=FALSE, include=FALSE}
 # Run the code below to knit the file
