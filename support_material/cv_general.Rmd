@@ -34,11 +34,11 @@ bibliography: "publications.bib"
 
 Research Assistant \hfill 2018-present  
 
-* Assistant under professor Laura Doering at the Rotman School of Management, University of Toronto. Responsibilities included research, data manipulation with Stata and data analysis.
+* Assistant under professor Laura Doering at the Rotman School of Management, University of Toronto. Responsibilities include research, data analysis and manipulation using Stata.
 
 Staff Writer at McGill Journal of Political Studies \hfill 2019-2020 
 
-* Staff writer on comparative politics at the McGill Journal of Political Studies (MJPS). Wrote mainly about Latin American politics.
+* Staff writer on comparative politics at the McGill Journal of Political Studies. Wrote mainly about Latin American politics.
 
 Tutor for quantitative political analysis \hfill 2019  
 
@@ -51,20 +51,22 @@ Tutor for quantitative political analysis \hfill 2019
 * ECON 468: Econometrics 1 - Honours
 * ECON 469: Econometrics 2 - Honours
 * POLI 618: Quantitative Analysis
+* POLI 643: Identity Politics
 * POLI 311: Introduction to Quantitative Political Science
 * POLI 210: Political Science Research Methods
 * CGPA: 3.88/4.0
 
 [comment]: <> (The line below uses the standard HTML code for the dieresis)
-*Colegio Biling&uuml;e New Horizons*, Graduated in 2017, accredited by the New England Association of Schools and Colleges \hfill 2017
+*Colegio Biling&uuml;e New Horizons*, graduated in 2017 and accredited by the New England Association of Schools and Colleges \hfill 2017
 
-* Technical vocational education in Information and Communications Technology
-* Model United Nations Club president and Speech and Debate Club Chief
+* Graduated with honours.
+* Technical vocational education in Information and Communications Technology.
+* President of the Model United Nations Club and member of the Speech and Debate Club.
 
 # Projects
 Bank of Canada's Governor's Challenge  
 
-* Part of McGill University's delegation to the Governor's Challenge, an annual competition in which students from universities across Canada are asked to present a monetary policy recommendation to the Bank of Canada.
+* Member of the delegation representing McGill University at the Governor's Challenge, an annual competition in which students from universities across Canada are asked to propose a monetary policy recommendation to the Bank of Canada.
 
 # Awards
 Charles William Snyder Memorial Scholarship \hfill 2020   
@@ -81,7 +83,8 @@ French (Intermediate)
 Statistical programming: R, Python, Stata  
 Version control and project collaboration: Git and GitHub  
 Communication of findings: LaTex, RMarkdown  
-Research, Data and statistical analysis  
+Qualitative and quantitative research
+
 
 # Certifications
 MTA: Networking Fundamentals \hfill 2017  
