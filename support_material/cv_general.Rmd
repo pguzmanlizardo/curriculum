@@ -8,14 +8,14 @@ geometry: margin=1in
 title: "CURRICULUM VITAE"
 author: Pablo M. Guzm&aacute;n Lizardo
 
-jobtitle: "Honours Student in Political Science and Economics at McGill University"
-address: "1260 Ave. du Docteur-Penfield, apt. 202. H3G 1B6. Montreal, QC, Canada"
+jobtitle: "PhD Student in Political Economics at the Stanford Graduate School of Business"
+address: "3432A Rue de Bullion, H2X 2Z9, Montreal, QC, Canada"
 fontawesome: yes
-email: pablo.guzmanlizardo@mail.mcgill.ca
+email: pablo.guzmanlizardo@protonmail.com
 github: pguzmanlizardo
-# twitter: pamupoli
+twitter: p_guzmanlizardo
 #osf: "Enter 5 digit osf string here"
-phone: "+1 438 928 4902"
+#phone: "+1 438 928 4902"
 # web: guinness.com
 updated: no
 
@@ -27,12 +27,12 @@ fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 
-bibliography: "publications.bib"
+#bibliography: "publications.bib"
 ---
 
 # Experience
 
-Research Assistant \hfill 2018-present  
+Research Assistant \hfill 2018-2021  
 
 * Assistant under professor Laura Doering at the Rotman School of Management, University of Toronto. Responsibilities include research, data analysis and manipulation using Stata.
 
@@ -40,28 +40,32 @@ Staff Writer at McGill Journal of Political Studies \hfill 2019-2020
 
 * Staff writer on comparative politics at the McGill Journal of Political Studies. Wrote mainly about Latin American politics.
 
-Tutor for quantitative political analysis \hfill 2019  
+Tutor for quantitative political analysis \hfill 2019-2021  
 
 * Tutor for POLI 311: Introduction to Quantitative Political Science at McGill University.
 
 # Education
 
-*McGill University*, B.A. Honours Economics and Political Science \hfill September 2017-April 2021
+*Stanford Graduate School of Business*, Incoming PhD Student in Political Economics \hfill 
+
+* *Starting Date: September 2021*    
+
+*McGill University*, B.A. Honours Economics and Political Science, Minor in Mathematics \hfill 2017-2021    
+
+* *Expected Graduation: August 2021*
 
 * ECON 468: Econometrics 1 - Honours
 * ECON 469: Econometrics 2 - Honours
 * POLI 618: Quantitative Analysis
 * POLI 643: Identity Politics
+* POLI 522: Seminar: Developing Areas
+* POLI 313: Introduction to Qualitative Political Science
 * POLI 311: Introduction to Quantitative Political Science
 * POLI 210: Political Science Research Methods
-* CGPA: 3.88/4.0
+* CGPA: 3.84/4.0
 
 [comment]: <> (The line below uses the standard HTML code for the dieresis)
-*Colegio Biling&uuml;e New Horizons*, graduated in 2017 and accredited by the New England Association of Schools and Colleges \hfill 2017
-
-* Graduated with honours.
-* Technical vocational education in Information and Communications Technology.
-* President of the Model United Nations Club and member of the Speech and Debate Club.
+*Colegio Biling&uuml;e New Horizons*, graduated in 2017 and accredited by the New England Association of Schools and Colleges \hfill 2014-2017
 
 # Projects
 Bank of Canada's Governor's Challenge  
@@ -71,8 +75,6 @@ Bank of Canada's Governor's Challenge
 # Awards
 Charles William Snyder Memorial Scholarship \hfill 2020   
 Dean's Honour List \hfill 2018-2020  
-Membership at Golden Key International Honour Society \hfill 2018  
-Octo Finals, 43rd Annual Harvard Forensics Tournament \hfill 2017
 
 # Languages
 English (Bilingual)  
@@ -84,7 +86,6 @@ Statistical programming: R, Python, Stata
 Version control and project collaboration: Git and GitHub  
 Communication of findings: LaTex, RMarkdown  
 Qualitative and quantitative research
-
 
 # Certifications
 MTA: Networking Fundamentals \hfill 2017  
