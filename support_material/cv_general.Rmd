@@ -9,9 +9,9 @@ title: "CURRICULUM VITAE"
 author: Pablo M. Guzm&aacute;n Lizardo
 
 jobtitle: "PhD Student in Political Economics at the Stanford Graduate School of Business"
-address: "3432A Rue de Bullion, H2X 2Z9, Montreal, QC, Canada"
+address: "6 Comstock Circle, 94305, Stanford, CA, USA"
 fontawesome: yes
-email: pablo.guzmanlizardo@protonmail.com
+email: pablo.guzmanlizardo@stanford.edu
 github: pguzmanlizardo
 twitter: p_guzmanlizardo
 #osf: "Enter 5 digit osf string here"
@@ -46,31 +46,15 @@ Tutor for quantitative political analysis \hfill 2019-2021
 
 # Education
 
-*Stanford Graduate School of Business*, Incoming PhD Student in Political Economics \hfill 
-
-* *Starting Date: September 2021*    
+*Stanford Graduate School of Business*, PhD Student in Political Economics \hfill 
+September 2021 - Present
 
 *McGill University*, B.A. Honours Economics and Political Science, Minor in Mathematics \hfill 2017-2021    
 
-* *Expected Graduation: August 2021*
-
-* ECON 468: Econometrics 1 - Honours
-* ECON 469: Econometrics 2 - Honours
-* POLI 618: Quantitative Analysis
-* POLI 643: Identity Politics
-* POLI 522: Seminar: Developing Areas
-* POLI 313: Introduction to Qualitative Political Science
-* POLI 311: Introduction to Quantitative Political Science
-* POLI 210: Political Science Research Methods
-* CGPA: 3.84/4.0
+* *Graduation: August 2021*
 
 [comment]: <> (The line below uses the standard HTML code for the dieresis)
 *Colegio Biling&uuml;e New Horizons*, graduated in 2017 and accredited by the New England Association of Schools and Colleges \hfill 2014-2017
-
-# Projects
-Bank of Canada's Governor's Challenge  
-
-* Member of the delegation representing McGill University at the Governor's Challenge, an annual competition in which students from universities across Canada are asked to propose a monetary policy recommendation to the Bank of Canada.
 
 # Awards
 Charles William Snyder Memorial Scholarship \hfill 2020   
@@ -86,11 +70,6 @@ Statistical programming: R, Python, Stata
 Version control and project collaboration: Git and GitHub  
 Communication of findings: LaTex, RMarkdown  
 Qualitative and quantitative research
-
-# Certifications
-MTA: Networking Fundamentals \hfill 2017  
-MTA: Software Fundamentals \hfill 2017  
-MTA: SQL Database Fundamentals \hfill 2016  
 
 ```{r eval=FALSE, include=FALSE}
 # Run the code below to knit the file
