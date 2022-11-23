@@ -64,6 +64,7 @@ Dean's Honour List \hfill 2018-2020
 English (Bilingual)  
 Spanish (Native)  
 French (Intermediate)  
+Portuguese (Beginner)  
 
 # Skills
 Statistical programming: R, Python, Stata  
