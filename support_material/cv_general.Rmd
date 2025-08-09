@@ -8,12 +8,11 @@ geometry: margin=1in
 title: "CURRICULUM VITAE"
 author: Pablo M. Guzm&aacute;n Lizardo
 
-jobtitle: "PhD Student in Political Economics at the Stanford Graduate School of Business"
-address: "6 Comstock Circle, 94305, Stanford, CA, USA"
+jobtitle: "PhD Candidate in Political Economics at the Stanford Graduate School of Business"
+address: "10 Comstock Circle, 94305, Stanford, CA, USA"
 fontawesome: yes
 email: pablo.guzmanlizardo@stanford.edu
-github: pguzmanlizardo
-twitter: p_guzmanlizardo
+#github: pguzmanlizardo
 #osf: "Enter 5 digit osf string here"
 #phone: "+1 438 928 4902"
 # web: guinness.com
@@ -30,47 +29,86 @@ urlcolor: blue
 #bibliography: "publications.bib"
 ---
 
-# Experience
+# EDUCATION
 
-Research Assistant \hfill 2018-2021  
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
 
-* Assistant under professor Laura Doering at the Rotman School of Management, University of Toronto. Responsibilities include research, data analysis and manipulation using Stata.
+**Stanford Graduate School of Business** *PhD Candidate in Political Economics* \hfill 2021 - Present    
+*Fields*: Political Economics, Public Economics, Development Economics  
+*Committee*: Katherine Casey (principal advisor), Caroline Hoxby, Beatriz Magaloni-Kerpel, Juan Carlos Su&aacute;rez Serrato, Gregory Martin
 
-Staff Writer at McGill Journal of Political Studies \hfill 2019-2020 
+**McGill University, ** *B.A. Honours Economics, B.A. Honours Political Science, Minor Concentration in Mathematics* \hfill 2017-2021    
 
-* Staff writer on comparative politics at the McGill Journal of Political Studies. Wrote mainly about Latin American politics.
+# RESEARCH PAPERS AND WORK IN PROGRESS
 
-Tutor for quantitative political analysis \hfill 2019-2021  
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
 
-* Tutor for POLI 311: Introduction to Quantitative Political Science at McGill University.
+## **JOB MARKET PAPER**
 
-# Education
+**The Path From Low to High Fiscal Capacity (\underline{Job Market Paper})**    
+*Co-authored with Wilson Prichard and Niccol&ograve; Meriggi*   
+We implement an RCT involving over 6000 property owners to evaluate different strategies to increase tax compliance amidst a broader property tax reform in Kenema, Sierra Leone. We collaborated with the Kenema City Council to introduce a system of communications and a tax court to increase the transparency and accountability of traditional tax enforcement procedures. We also collaborate with religious leaders to motivate tax compliance and provide a rationale for taxation. The experiment shows that receiving enforcement increased compliance by 53.4 p.p., while the sensitization treatment increases compliance by 4.9 p.p. Using a recentered-IV approach, we find evidence of spatial spillovers. Baseline and midline surveys show substantive increases in pro-tax attitudes among all property owners in the city and no evidence of a backlash effect from enforcement. 
 
-*Stanford Graduate School of Business*, PhD Student in Political Economics \hfill 
-September 2021 - Present
+## **WORK IN PROGRESS**
+**Impact of Militarized Policing in Dominican Republic**  
+I build a novel panel dataset that tracks all mixed, police-military, patrolling interventions in Dominican Republic; and all crime incidents that occurred in a particular locality during the period between January 1st, 2023, and June 30th, 2023. I find that these mixed patrols lead to a decrease of 0.011 units of crime during the week after an intervention. I fail to find evidence of spillover effects resulting from the mixed-patrolling interventions. 
 
-*McGill University*, B.A. Honours Economics and Political Science, Minor in Mathematics \hfill 2017-2021    
 
-* *Graduation: August 2021*
+# RESEARCH EXPERIENCE
 
-[comment]: <> (The line below uses the standard HTML code for the dieresis)
-*Colegio Biling&uuml;e New Horizons*, graduated in 2017 and accredited by the New England Association of Schools and Colleges \hfill 2014-2017
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
 
-# Awards
-Charles William Snyder Memorial Scholarship \hfill 2020   
-Dean's Honour List \hfill 2018-2020  
 
-# Languages
-English (Bilingual)  
-Spanish (Native)  
-French (Intermediate)  
-Portuguese (Beginner)  
+**Stanford Graduate School of Business**, *Graduate Research Assistant* \hfill 2022-2024      
+Worked under the supervision of Professor Katherine Casey. Responsibilities includes research and operational support for the Candidate Selection project in Sierra Leone. 
 
-# Skills
-Statistical programming: R, Python, Stata  
-Version control and project collaboration: Git and GitHub  
-Communication of findings: LaTex, RMarkdown  
-Qualitative and quantitative research
+**Rotman School of Management at University of Toronto**, *Research Assistant* \hfill 2018-2021   
+Worked under the supervision of Professor Laura Doering. Responsibilities include research, data analysis and manipulation using Stata. 
+
+# TEACHING EXPERIENCE
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Stanford Graduate School of Business**, *Course Assistant* \hfill Winter 2025   
+POLECON 231: Strategy Beyond Markets. Assisted with leading class activities, grading assignments, and providing support to MBA students.
+
+# AWARDS AND RESEARCH GRANTS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**International Growth Centre Full Research Grant**, *&pound;75,000*   \hfill 2024      
+**Local Government Revenue Initiative Grant**, *&euro;188,664*   \hfill 2024      
+**Local Government Revenue Initiative Grant**, *USD &dollar;51,165*   \hfill 2024      
+**International Growth Centre Small Projects Fund**, *&pound;19,000*   \hfill 2024      
+**Charles William Snyder Memorial Scholarship** \hfill 2020   
+**McGill University Faculty of Arts' Dean's Honour List** \hfill 2018-2020   
+
+# LEADERSHIP AND COMMUNITY SERVICE
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Conference Co-Organizer,** *2024 DevPEC* \hfill April 2024    
+Co-organized the 2024 edition of the student-led Development and Political Economics Conference (DevPEC). The conference is a collaboration between Stanford University's Economics Department and the University of Berkeley's Economics Department. Co-organized with Silvia Farina, Eva Davoine, and Kyra Frye. 
+
+
+# SKILLS AND INTERESTS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Languages:** English (Bilingual), Spanish (Native), French (Advanced), Portuguese (Intermediate), Sierra Leonean Krio (Beginner).
+
+**Statistical packages and programming languages:** R, Python, Stata, SPSS, SQL.
+
+**Survey Implementation:** SurveyCTO.
+
+**Communication and collaboration:** RMarkdown, LaTex, Git.
 
 ```{r eval=FALSE, include=FALSE}
 # Run the code below to knit the file

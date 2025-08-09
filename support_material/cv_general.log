@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.12)  23 NOV 2022 13:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.12)  22 JUN 2025 09:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -552,42 +552,52 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 119.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 119.
-LaTeX Font Info:    Trying to load font information for U+fontawesomethree on i
-nput line 119.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
-File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
-) 
-AED: lastpage setting LastPage
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplj/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+
+LaTeX Font Warning: Font shape `T1/pplj/b/sc' undefined
+(Font)              using `T1/pplj/b/n' instead on input line 148.
+
 [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./cv_g
-eneral.aux)
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
+213.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1pplj.fd
+File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
+) 
+AED: lastpage setting LastPage
+[2] (./cv_general.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `cv_general.out' has not changed.
-(rerunfilecheck)             Checksum: 1F800897E75C4002AECA4F2D5FC48CD0;420.
+(rerunfilecheck)             Checksum: 7E7B97E46161716AAE20AD35FEA29F94;1444.
  ) 
 Here is how much of TeX's memory you used:
- 14635 strings out of 478994
- 215343 string characters out of 5858184
- 564213 words of memory out of 5000000
- 31731 multiletter control sequences out of 15000+600000
- 439220 words of font info for 153 fonts, out of 8000000 for 9000
+ 14738 strings out of 478994
+ 216380 string characters out of 5858184
+ 566516 words of memory out of 5000000
+ 31760 multiletter control sequences out of 15000+600000
+ 449614 words of font info for 208 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,11n,88p,1199b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,12n,88p,1199b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{/usr/l
-ocal/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/loc
-al/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><
-/usr/local/texlive/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/loc
-al/texlive/2021/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texl
-ive/2021/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texliv
-e/2021/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/
-texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-d
-ist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv_general.pdf (1 page, 105567 bytes).
+exlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/tex
+live/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2021/t
+exmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texlive/2021/tex
+mf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2021/texmf-dist
+/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/
+type1/urw/palatino/uplri8a.pfb>
+Output written on cv_general.pdf (2 pages, 118382 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 500000)
- 49193 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 63561 words of extra memory for PDF output out of 74296 (max. 10000000)
 
