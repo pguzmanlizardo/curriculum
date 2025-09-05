@@ -15,7 +15,7 @@ email: pablo.guzmanlizardo@stanford.edu
 #github: pguzmanlizardo
 #osf: "Enter 5 digit osf string here"
 #phone: "+1 438 928 4902"
-# web: guinness.com
+web: pguzmanlizardo.github.io
 updated: no
 
 keywords: R Markdown, academic CV, template
