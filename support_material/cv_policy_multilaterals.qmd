@@ -1,0 +1,174 @@
+---
+title: "CURRICULUM VITAE"
+author: Pablo M. Guzm&aacute;n Lizardo
+
+jobtitle: "PhD Candidate in Political Economics at the Stanford Graduate School of Business"
+address: "655 Knight Way, Stanford, CA 94305, USA"
+fontawesome: yes
+email: pablo@guzmanlizardo.com
+#github: pguzmanlizardo
+#osf: "Enter 5 digit osf string here"
+#phone: "+1 438 928 4902"
+web: pguzmanlizardo.github.io
+#updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+
+#bibliography: "publications.bib"
+
+format:
+  pdf:
+    pdf-engine: pdflatex
+    template: svm-latex-cv.tex
+    geometry: margin=1in
+---
+
+# EDUCATION
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Stanford Graduate School of Business** *PhD Candidate in Political Economics* \hfill 2021 - Present    
+*Fields*: Political Economics, Public Economics, Development Economics.  
+**Expected Graduation**: June 2026
+
+**McGill University**, *B.A. Economics and B.A. Political Science* \hfill 2017-2021    
+*First Class Honours in Political Science*  
+*First Class Honours in Economics*  
+*Dean's Honour List*  
+
+# Research and Work Experience
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Principal Researcher**, *Impact Evaluation: Motivating Property Tax Compliance*     \hfill 2023-Present      
+Co-principal investigator in an impact evaluation of strategies to promote property tax compliance in Kenema, Sierra Leone.  
+
+- a. Increased property tax compliance by over 50 p.p. in the treated groups, doubling tax revenues in the city.
+- b. Designed and implemented an impact evaluation of strategies to promote tax compliance. Impacted over 6000 property owners, over a third of city's tax defaulters. 
+- c. Collaborated with the local government to design, implement, and evaluate the its tax enforcement policy. 
+- d. Coordinated with Chiefly Traditional Authorities to set up a new Traditional Tax Court system to judge over 3000 tax defaulters. 
+- e. Collaborated with Muslim and Christian organizations to implement a public campaign motivating tax compliance involving over 3000 tax defaulters.
+- f. Led three waves of survey data collection with a team of over 6 research assistants, 4 field coordinators, and over 60 enumerators. 
+- g. Over a year of direct, in-field experience in Kenema, Sierra Leone. 
+- h. Raised over USD &dollar; 300,000 in research grants to implement this impact evaluation.  
+
+**Principal Researcher**, *Impact Evaluation: Effect of Militarized Policing*      \hfill 2023  
+Implemented an impact evaluation of the effects of militarized policing in Dominican Republic. 
+
+- a. Collaborated with the Ministry of Defense, and directly engaged with the Minister and the institution's leadership to initiate and coordinate the evaluation.
+- b. Collected and digitize administrative data on patrolling activities in the country. 
+- c. Built a novel panel dataset tracking all instances of militarized patrolling in the country between January 2023 and June 2023. 
+- d. Applied novel econometric methods to estimate the effect of militarized policing on crime in the country. 
+
+**Graduate Research Assistant**, *Impact Evaluation: Candidate Entry Into Local Government*      \hfill 2022  
+Graduate research assistant under Professor Katherine Casey on an experimental intervention that identified, screened, and promoted high-quality potential candidates for political office in Sierra Leone. 
+
+- a. 4 months of in-field, operational assistance in Sierra Leone.
+- b. Supervised survey data collection across the country.
+- c. Implemented data analysis and manipulation tasks, supporting the project's activities. 
+
+**Undergraduate Research Assistant**, *Impact Evaluation: Micro-savings groups*      \hfill 2018-2021  
+Research assistant under Professor Laura Doering on an impact evaluation of micro-savings groups in Colombia. Over 3 years of off-field research, data analysis, and data manipulation support in Stata. 
+
+# Ongoing Research Projects
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Does Information about Enforcement Lead to Compliance?**    
+*Together with Wilson Prichard and Niccol&ograve; Meriggi*   
+Together with the Sierra Leone Association of Journalists, we evaluate the effect of spreading journalistic pamphlets about government tax enforcement action on the likelihood of compliance. We implement a Saturation Experimental Design to evaluate both the direct effect of receiving the pamphlets and the indirect effects of being informed about the pamphlets.   
+
+**Aligning Enforcement Officer Incentives**    
+*Together with Wilson Prichard and Niccol&ograve; Meriggi*   
+Leveraging a property tax reform in Kenema, Sierra Leone, we evaluate different incentive structures to motive productivity and reduce corruption of tax enforcement officers.   
+
+**Mapping Attitudes Towards Taxation in Sierra Leone**    
+*Together with Wilson Prichard and Niccol&ograve; Meriggi*   
+Across several city-wide property tax interventions in Sierra Leone, we map the evolution of attitudes towards property taxation and fiscal capacity across time and across several cities.   
+
+
+# LEADERSHIP AND COMMUNITY SERVICE
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Course Assistant**, *Stanford Graduate School of Business* \hfill 2025   
+Course assistant under Professor Katherine Casey. 
+
+- a. Assisted on teaching activities for the Strategy Beyond Markets course at the Stanford Graduate School of Business. 
+- b. Supported early- and mid-career MBA students on course content and concepts.
+- c. Supported course organization and management. 
+
+**Conference Co-Organizer,** *DevPec* \hfill April 2024    
+
+- a. Co-organized the 2024 edition of the student-led Development and Political Economics Conference (DevPEC). 
+- b. Collaborated with a team of PhD students from Stanford University's Economics Department and the University of Berkeley's Economics Department.
+
+# AWARDS AND RESEARCH GRANTS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**International Growth Centre Full Research Grant**, *&pound;75,000*   \hfill 2024      
+**Local Government Revenue Initiative Grant**, *&euro;188,664*   \hfill 2024      
+**Local Government Revenue Initiative Grant**, *USD &dollar;51,165*   \hfill 2024      
+**International Growth Centre Small Projects Fund**, *&pound;19,000*   \hfill 2024      
+
+# SKILLS AND INTERESTS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Languages:** English (Bilingual), Spanish (Native), French (Advanced), Portuguese (Advanced), Sierra Leonean Krio (Beginner).
+
+**Programming and Statistical Packages:** R, Python, Stata, SPSS, SQL.
+
+**Citizenship:** Dominican Republic.
+
+# REFERENCES
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Professor Katherine Casey**  
+Stanford Graduate School of Business  
+Academic supervisor within doctorate program  
+*Email:* kecasey@stanford.edu
+
+**Professor Caroline Hoxby**  
+Stanford University Department of Economics  
+Academic supervisor within doctorate program    
+*Email:* choxby@stanford.edu  
+
+**Professor Beatriz Magaloni-Kerpel**      
+Stanford University Department of Political Science  
+Academic supervisor within doctorate program  
+*Email:* magaloni@stanford.edu
+
+**Professor Wilson Prichard**       
+Munk School of Global Affairs & Public Policy  
+Co-author and policy collaborator  
+*Email:* wilson.prichard@utoronto.ca
+
+
+```{r eval=FALSE, include=FALSE}
+**Statistical packages and programming languages:** 
+
+**Survey Implementation:** SurveyCTO.
+
+**Communication and collaboration:** LaTex, Git.
+```
+
+```{r eval=FALSE, include=FALSE}
+# To render this file with Quarto, you can run:
+#   quarto render support_material/cv_policy_multilaterals.qmd --to pdf
+```

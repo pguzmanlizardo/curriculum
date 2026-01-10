@@ -1,0 +1,174 @@
+---
+title: "CURRICULUM VITAE"
+author: Pablo M. Guzm&aacute;n Lizardo
+
+jobtitle: "PhD Candidate in Political Economics at the Stanford Graduate School of Business"
+address: "655 Knight Way, Stanford, CA 94305, USA"
+fontawesome: yes
+email: pablo.guzmanlizardo@stanford.edu
+#github: pguzmanlizardo
+#osf: "Enter 5 digit osf string here"
+#phone: "+1 438 928 4902"
+web: pguzmanlizardo.github.io
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+
+#bibliography: "publications.bib"
+
+format:
+  pdf:
+    pdf-engine: pdflatex
+    template: svm-latex-cv.tex
+    geometry: margin=1in
+---
+
+# EDUCATION
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Stanford Graduate School of Business** *PhD Candidate in Political Economics* \hfill 2021 - Present    
+*Fields*: Political Economics, Public Economics, Development Economics  
+*Committee*: Katherine Casey (principal advisor), Caroline Hoxby, Beatriz Magaloni-Kerpel, Juan Carlos Su&aacute;rez Serrato, Gregory Martin.
+
+**McGill University**, *B.A. Economics and B.A. Political Science* \hfill 2017-2021    
+First Class Honours in Political Science, First Class Honours in Economics, Minor Concentration in Mathematics. Dean's Honour List.
+
+# RESEARCH PAPERS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Unlocking Tax Compliance: Enforcement and Religious Normative Appeals [(\underline{Latest draft})](https://drive.google.com/drive/folders/12bU_4cz5ck11deMGgFS4hcsNKYGlvDo4?usp=drive_link)**    
+*Co-authored with Wilson Prichard and Niccol&ograve; Meriggi*   
+We conduct a field experiment within a property tax reform in Sierra Leone to test two hypotheses on converting digital tax tools into compliance. First, rather than marginally boosting general perceptions of enforcement among taxpayers, governments must implement targeted tax enforcement itself. Second, enforcement can be complemented by leveraging local social structures that shape taxpayers’ behavior. We test these hypotheses through two interventions. The first is an enforcement program involving enforcement notices, court hearings chaired by traditional chiefs, and penalties implemented by the local government. The second is a public campaign where religious authorities motivated taxpayers to comply with the tax through direct door-to-door visits using normative appeals and references to religious scripture. Each treatment is allocated following a factorial experiment design and we exploit variation in geographic treatment saturation to evaluate spillovers. We find that enforcement action increases the compliance rate by 53.4 p.p. This is 16 times the average effect in the main literature on compliance. The visits by religious leaders increased compliance by 4.9 p.p. Both interventions cause spillovers from treated property owners towards their neighbors. Finally, survey data on over 6,000 property owners suggests substantive improvements in taxpayers perceived credibility of enforcement and peer compliance, willingness to comply with the tax, and legitimacy of compliance. 
+
+**Impact of Militarized Policing in Dominican Republic**  
+I build a novel, granular, panel dataset tracking all crime incidents and all mixed, police-military patrolling in Dominican Republic during the period between January 1st, 2023, and June 30th, 2023. I use this data to estimate the effect of police-military patrolling on the incidence of crime. I find that mixed patrols lead to a slight decrease in the incidence of crime in a neighborhood the week after an intervention. I do not find evidence of spillover effects on near neighborhoods. 
+
+# WORK IN PROGRESS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Does Information about Enforcement Lead to Compliance?**    
+*Together with Wilson Prichard and Niccol&ograve; Meriggi*   
+Together with the Sierra Leone Association of Journalists, we evaluate the effect of spreading journalistic pamphlets about government tax enforcement action on the likelihood of compliance. We implement a Saturation Experimental Design to evaluate both the direct effect of receiving the pamphlets and the indirect effects of being informed about the pamphlets.   
+
+**Aligning Enforcement Officer Incentives**    
+*Together with Wilson Prichard and Niccol&ograve; Meriggi*   
+Leveraging a property tax reform in Kenema, Sierra Leone, we evaluate different incentive structures to motive productivity and reduce corruption of tax enforcement officers.   
+
+**Mapping Attitudes Towards Taxation in Sierra Leone**    
+*Together with Wilson Prichard and Niccol&ograve; Meriggi*   
+Across several city-wide property tax interventions in Sierra Leone, we map the evolution of attitudes towards property taxation and fiscal capacity across time and across several cities.   
+
+
+# RESEARCH EXPERIENCE
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Stanford Graduate School of Business**, *Graduate Research Assistant* \hfill 2022-2024      
+Worked under the supervision of Professor Katherine Casey. Responsibilities includes research and infield operational support for different projects in Sierra Leone. 
+
+**Rotman School of Management at University of Toronto**, *Research Assistant* \hfill 2018-2021   
+Worked under the supervision of Professor Laura Doering. Responsibilities include research, data analysis and manipulation using Stata. 
+
+# TEACHING EXPERIENCE
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Stanford Graduate School of Business**, *Course Assistant* \hfill Winter 2025   
+POLECON 231: Strategy Beyond Markets. Assisted with leading class activities, grading assignments, and providing support to MBA students.
+
+# AWARDS AND RESEARCH GRANTS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**International Growth Centre Full Research Grant**, *&pound;75,000*   \hfill 2024      
+**Local Government Revenue Initiative Grant**, *&euro;188,664*   \hfill 2024      
+**Local Government Revenue Initiative Grant**, *USD &dollar;51,165*   \hfill 2024      
+**International Growth Centre Small Projects Fund**, *&pound;19,000*   \hfill 2024      
+**Charles William Snyder Memorial Scholarship** \hfill 2020   
+**McGill University Faculty of Arts' Dean Honour List** \hfill 2018-2021   
+
+# LEADERSHIP AND COMMUNITY SERVICE
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**DevPEC,** *Conference Co-Organizer* \hfill April 2024    
+Co-organized the 2024 edition of the student-led Development and Political Economics Conference (DevPEC). The conference is a collaboration between Stanford University's Economics Department and the University of Berkeley's Economics Department. Co-organized with Silvia Farina, Eva Davoine, and Kyra Frye. 
+
+
+# SKILLS AND INTERESTS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Languages:** English (Bilingual), Spanish (Native), French (Advanced), Portuguese (Advanced), Sierra Leonean Krio (Beginner).
+
+**Programming and Statistical Packages:** R, Python, Stata, SPSS, SQL.
+
+**Citizenship:** Dominican Republic. <!--- OPT work authorization for three years. --->
+
+ 
+
+# REFERENCES
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+	\textbf{Professor Katherine Casey}\\
+Stanford Graduate School of Business\\
+Main academic advisor\\
+	\textit{Email:} kecasey@stanford.edu
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\textwidth}
+	\textbf{Professor Caroline Hoxby}\\
+Stanford Department of Economics\\
+Academic advisor\\
+	\textit{Email:} choxby@stanford.edu
+\end{minipage}
+
+\medskip
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+	\textbf{Professor Beatriz Magaloni-Kerpel}\\
+Stanford Department of Political Science\\
+Academic advisor\\
+	\textit{Email:} magaloni@stanford.edu
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\textwidth}
+	\textbf{Professor Wilson Prichard}\\
+Munk School of Global Affairs \& Public Policy\\
+Co-author and policy collaborator\\
+	\textit{Email:} wilson.prichard@utoronto.ca
+\end{minipage}
+
+
+```{r eval=FALSE, include=FALSE}
+**Statistical packages and programming languages:** 
+
+**Survey Implementation:** SurveyCTO.
+
+**Communication and collaboration:** LaTex, Git.
+```
+
+```{r eval=FALSE, include=FALSE}
+# To render this file with Quarto, you can run:
+#   quarto render support_material/cv_general.qmd --to pdf
+```

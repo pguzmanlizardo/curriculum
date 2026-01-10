@@ -1,0 +1,62 @@
+---
+title: "Research Portfolio"
+author: Research Portfolio
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+
+#bibliography: "publications.bib"
+
+format:
+  pdf:
+    pdf-engine: pdflatex
+    template: svm-latex-cv.tex
+    geometry: margin=1in
+---
+
+# RESEARCH PAPERS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Unlocking Tax Compliance: Enforcement and Religious Normative Appeals (\underline{JMP})**    
+*Co-authored with Wilson Prichard and Niccol&ograve; Meriggi*   
+We conduct a field experiment within a property tax reform in Sierra Leone to test two hypotheses on converting digital tax tools into compliance. First, rather than marginally boosting general perceptions of enforcement among taxpayers, governments must implement targeted tax enforcement itself. Second, enforcement can be complemented by leveraging local social structures that shape taxpayers’ behavior. We test these hypotheses through two interventions. The first is an enforcement program involving enforcement notices, court hearings chaired by traditional chiefs, and penalties implemented by the local government. The second is a public campaign where religious authorities motivated taxpayers to comply with the tax through direct door-to-door visits using normative appeals and references to religious scripture. Each treatment is allocated following a factorial experiment design and we exploit variation in geographic treatment saturation to evaluate spillovers. We find that enforcement action increases the compliance rate by 53.4 p.p. This is 16 times the average effect in the main literature on compliance. The visits by religious leaders increased compliance by 4.9 p.p. Both interventions cause spillovers from treated property owners towards their neighbors. Finally, survey data on over 6,000 property owners suggests substantive improvements in taxpayers perceived credibility of enforcement and peer compliance, willingness to comply with the tax, and legitimacy of compliance. **Status: Working Paper**
+
+**Impact of Militarized Policing in Dominican Republic**  
+I build a novel, granular, panel dataset tracking all crime incidents and all mixed, police-military patrolling in Dominican Republic during the period between January 1st, 2023, and June 30th, 2023. I use this data to estimate the effect of police-military patrolling on the incidence of crime. I find that mixed patrols lead to a slight decrease in the incidence of crime in a neighborhood the week after an intervention. I do not find evidence of spillover effects on near neighborhoods. 
+
+# WORK IN PROGRESS
+
+\vspace{-0.4cm}
+\rule{\textwidth}{1pt}
+
+**Does Information about Enforcement Lead to Compliance?**    
+*Together with Wilson Prichard and Niccol&ograve; Meriggi*   
+Together with the Sierra Leone Association of Journalists, we evaluate the effect of spreading journalistic pamphlets about government tax enforcement action on the likelihood of compliance. We implement a Saturation Experimental Design to evaluate both the direct effect of receiving the pamphlets and the indirect effects of being informed about the pamphlets. 
+
+**Aligning Enforcement Officer Incentives**    
+*Together with Wilson Prichard and Niccol&ograve; Meriggi*   
+Leveraging a property tax reform in Kenema, Sierra Leone, we evaluate different incentive structures to motive productivity and reduce corruption of tax enforcement officers. 
+
+**Mapping Attitudes Towards Taxation in Sierra Leone**    
+*Together with Wilson Prichard and Niccol&ograve; Meriggi*   
+Across several city-wide property tax interventions in Sierra Leone, we map the evolution of attitudes towards property taxation and fiscal capacity across time and across several cities.   
+
+```{r eval=FALSE, include=FALSE}
+**Statistical packages and programming languages:** 
+
+**Survey Implementation:** SurveyCTO.
+
+**Communication and collaboration:** LaTex, Git.
+```
+
+```{r eval=FALSE, include=FALSE}
+# To render this file with Quarto, you can run:
+#   quarto render support_material/cv_general.qmd --to pdf
+```
